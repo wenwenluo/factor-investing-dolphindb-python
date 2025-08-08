@@ -1,1 +1,0 @@
-# factor-investing-dolphindb-python
